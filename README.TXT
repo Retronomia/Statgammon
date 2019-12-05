@@ -27,4 +27,4 @@ When done, please take the StatgammonDataLog.txt (located on the Desktop) and co
 https://docs.google.com/document/d/1VB5-ApMVk_pagzCZwuojj_NysWxqqT2YWzIH39hGLqo/edit?usp=sharing
 
 
-*Also comment the version number (This is 1.0) for bug tracking purposes
+*Also comment the version number (This is 1.1) for bug tracking purposes
