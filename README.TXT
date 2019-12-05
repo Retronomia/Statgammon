@@ -1,11 +1,13 @@
 ========================
       HOW TO PLAY
 ========================
+Goal: get both pieces to the other side of the board
 -The first piece is "1"
 -The second piece is "2"
 -When pieces are at the same position, the value is shown as "3"
 -Empty spaces are "0"
 -To get the piece to the end, the number on the die must be the exact value needed
+-Numerical responses are typed in as input when prompted
 ========================
    RUNNING THE FILE
 ========================
