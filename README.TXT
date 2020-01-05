@@ -11,23 +11,5 @@ Goal: get both pieces off of the board
 ========================
    RUNNING THE FILE
 ========================
-To run the project from the command line, go to the dist folder and
-type the following:
-
-1) Run the exe file
-
-2)
-java -jar "Statgammon.jar" 
-
-Example: java -jar C:\Users\NAME\Desktop\Statgammon\Statgammon.jar
-
-I recommend opening a window and pasting the entire command with the file path into it to make
-everything easier.
-========================
-    DATA SUBMISSION
-========================
-When done, please take the StatgammonDataLog.txt (located on the Desktop) and copy the contents to:
-https://docs.google.com/document/d/1VB5-ApMVk_pagzCZwuojj_NysWxqqT2YWzIH39hGLqo/edit?usp=sharing
-
-
-*Also comment the version number (This is 1.3) for bug tracking purposes
+In order to play Statgammon, keep all of the files inside of the Statgammon folder.
+Running the exe file by clicking it is the easiest method.

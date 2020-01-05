@@ -1,0 +1,18 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\irose\OneDrive\Surface Desktop\Statgammon\Statgammon.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Statgammon
+Working dir:	C:\Users\irose\OneDrive\Surface Desktop\Statgammon\.
+Java min ver:	1.008.000
+Java max ver:	1.009.000
+Bundled JRE:	Statgammon\jre\
+Check launcher:	C:\Users\irose\OneDrive\Surface Desktop\Statgammon\Statgammon\jre\bin\javaw.exe (OK)
+Main class:	statgammon.Statgammon
+Add classpath:	lib\miglayout-3.5.5.jar
+Add classpath:	lib\imgscalr-lib-4.2.jar
+Launcher:	C:\Users\irose\OneDrive\Surface Desktop\Statgammon\Statgammon\jre\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\irose\OneDrive\Surface Desktop\Statgammon\Statgammon.exe;lib\miglayout-3.5.5.jar;lib\imgscalr-lib-4.2.jar" statgammon.Statgammon
+Args length:	149/32768 chars
+Exit code:	0
